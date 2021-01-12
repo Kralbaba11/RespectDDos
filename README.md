@@ -1,6 +1,6 @@
 # RespectDDos
 
-git clone https://github.com/Kralbaba11/RespectDDos
+https://github.com/Kralbaba11/RespectDDos
 
 chmod 777 RespectDDos
 
